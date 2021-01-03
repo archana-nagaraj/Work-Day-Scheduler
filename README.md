@@ -34,6 +34,6 @@ Simple calendar application that allows the user to save events for each work ho
 https://archana-nagaraj.github.io/Work-Day-Scheduler/
 
 
-### Contact
-- Name: [Archana Nagaraja](https://archana-nagaraj.github.io/Professional-Portfolio/)
-![Archana Nagaraja](.assets/images/photo.jpg)
+### Contributors
+<a href="https://github.com/archana-nagaraj"><img src="https://avatars2.githubusercontent.com/u/1306522?s=60&amp;v=4" width="20" height="20" style="border-radius:50%">
+
