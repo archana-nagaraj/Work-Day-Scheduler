@@ -35,5 +35,6 @@ https://archana-nagaraj.github.io/Work-Day-Scheduler/
 
 
 ### Contributors
-<a href="https://github.com/archana-nagaraj"><img src="https://avatars2.githubusercontent.com/u/1306522?s=60&amp;v=4" width="20" height="20" style="border-radius:50%">
+[@archana-nagaraj]
+<a href="https://github.com/archana-nagaraj"><img src="https://avatars2.githubusercontent.com/u/1306522?s=60&amp;v=4" width="40" height="40" style="border-radius:50%">
 
