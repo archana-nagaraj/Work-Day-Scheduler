@@ -16,7 +16,7 @@ Simple calendar application that allows the user to save events for each work ho
 - moment.js
 
 ### First glance of the app:
-![Screenshot](./assets/images/Screenshot_Scheduler.png)
+![Screenshot](./Assets/images/Screenshot_Scheduler.png)
 
 ### Usage:
 1. Application is loaded with app name, ap description and the current day in the top most section
