@@ -15,8 +15,8 @@ Simple calendar application that allows the user to save events for each work ho
 - Bootstrap
 - moment.js
 
-### Demo of the app:
-![Work day Scheduler demo](./assets/images/05-third-party-apis-homework-demo.gif)
+### First glance of the app:
+![Screenshot](./assets/images/Screenshot.png)
 
 ### Usage:
 1. Application is loaded with app name, ap description and the current day in the top most section
